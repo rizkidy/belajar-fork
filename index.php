@@ -1,6 +1,6 @@
 <?php
 
-$namaSaya = "Ivan Nur Efendi";
+$namaSaya = "Rizki Dwi Yulianto";
 $umurSaya = 20;
 $umurAdek = 10;
 $selisihUmur = $umurSaya - $umurAdek;
